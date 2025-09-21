@@ -1,0 +1,38 @@
+
+[
+  {
+    "transactionId": "TXN001",
+    "type": "deposit",
+    "amount": 5000,
+    "currency": "NGN",
+    "date": "2025-09-01T10:30:00Z"
+  },
+  {
+    "transactionId": "TXN002",
+    "type": "withdrawal",
+    "amount": 200,
+    "currency": "USDT",
+    "date": "2025-09-02T14:20:00Z"
+  },
+  {
+    "transactionId": "TXN003",
+    "type": "transfer",
+    "amount": 1000,
+    "currency": "ELOIT",
+    "date": "2025-09-05T09:15:00Z"
+  },
+  {
+    "transactionId": "TXN004",
+    "type": "reward",
+    "amount": 50,
+    "currency": "USDT",
+    "date": "2025-09-10T18:45:00Z"
+  },
+  {
+    "transactionId": "TXN005",
+    "type": "deposit",
+    "amount": 25000,
+    "currency": "NGN",
+    "date": "2025-09-15T11:05:00Z"
+  }
+]
